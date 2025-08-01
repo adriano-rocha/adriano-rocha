@@ -11,7 +11,7 @@ Sigo evoluindo constantemente e aplicando meus conhecimentos em projetos reais.
 
 ---
 
-### 🤖 Linguagens e Tecnologia
+### 🤖 Linguagens e Tecnologias
 
 <img
   align="left"
