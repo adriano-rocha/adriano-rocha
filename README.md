@@ -5,7 +5,7 @@
 
 <br>
 👋 Sou Adriano Rocha, 37 anos, desenvolvedor em formação com foco em Fullstack.
-Curso o 4º semestre de Análise e Desenvolvimento de Sistemas (Uninter) e faço curso técnico Fullstack há 1 ano na B7Web, com foco em prática e projetos.
+Curso o 4º semestre de Análise e Desenvolvimento de Sistemas (Uninter) e faço curso técnico Fullstack há 1 ano na B7Web, focado em prática, resoluções de problemas e projetos.
 Antes da programação, atuei como analista gráfico no mercado financeiro e técnico em Telecom, experiências que reforçaram meu interesse por tecnologia.
 Sigo evoluindo constantemente e aplicando meus conhecimentos em projetos reais.
 
