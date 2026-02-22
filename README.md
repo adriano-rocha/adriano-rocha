@@ -20,8 +20,8 @@ Atualmente focado em evoluir como Desenvolvedor Backend e Fullstack.
 - HTML, CSS, JavaScript
 - TypeScript
 - React
+- Python
 - Node.js
-- Java
 - Git & GitHub
 - SQL
 
@@ -49,5 +49,5 @@ Atualmente estudando:
 
 ## 📫 Contato
 
-LinkedIn: (coloque aqui)  
-Email: (coloque aqui)
+LinkedIn: https://www.linkedin.com/in/adriano-rocha-464044305/
+Email: adrianorocha.dev@gmail.com
