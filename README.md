@@ -1,115 +1,53 @@
-# 💻 Adriano Rocha 
+# 👨‍💻 Adriano Rocha
 
-**`Desenvolvedor Fullstack`** 
----
-
-<br>
-👋 Sou Adriano Rocha, desenvolvedor Fullstack, cursando o 4º semestre de Análise e Desenvolvimento de Sistemas (Uninter) e faço curso técnico Fullstack há 1 ano na B7Web, focado em prática, resoluções de problemas e projetos.
-Antes da programação, atuei como analista gráfico no mercado financeiro e técnico em Telecom, experiências que reforçaram meu interesse por tecnologia.
-Sigo evoluindo constantemente e aplicando meus conhecimentos em projetos reais.
+Desenvolvedor Fullstack Júnior | Estudante de Análise e Desenvolvimento de Sistemas  
+Buscando oportunidade de Estágio ou Dev Jr
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+Sou estudante do 4º semestre de ADS (Uninter) e aluno do curso técnico Fullstack da B7Web, com foco em prática e construção de projetos reais.
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+Tenho experiência anterior como Analista Gráfico no mercado financeiro e Técnico em Telecom, o que desenvolveu minha visão analítica, responsabilidade e disciplina profissional.
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+Atualmente focado em evoluir como Desenvolvedor Backend e Fullstack.
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
+---
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
+## 🛠 Stack Principal
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+- HTML, CSS, JavaScript
+- TypeScript
+- React
+- Node.js
+- Java
+- Git & GitHub
+- SQL
 
+---
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
+## 📚 Em constante evolução
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"          
-/>
+Atualmente estudando:
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
+- Arquitetura Backend
+- Boas práticas de código
+- Tratamento de erros e organização de projetos
+- Estruturação de APIs
+- Banco de dados e modelagem
 
-<img
-  align="left"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+---
 
-<br />
-<br />
+## 📊 Estatísticas
 
-### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=radical)
 
-<img
-  align="left"
-  alt="Github Stats"
-  height="200"
-  style="padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api?username=adriano-rocha&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"
-/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=radical)
 
-<img
-  align="left"
-  alt="Github Stats"
-  height="200"
-  style="padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-rocha&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=5"
-/>
+---
+
+## 📫 Contato
+
+LinkedIn: (coloque aqui)  
+Email: (coloque aqui)
