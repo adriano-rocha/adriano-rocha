@@ -1,53 +1,35 @@
 # 👨‍💻 Adriano Rocha
 
-Desenvolvedor Fullstack Júnior | Estudante de Análise e Desenvolvimento de Sistemas  
-Buscando oportunidade de Estágio ou Dev Jr
+Desenvolvedor Full-Stack Júnior | Graduado em Análise e Desenvolvimento de Sistemas  
+Focado na construção de sistemas eficientes, arquitetura de APIs e automação de processos.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante do 4º semestre de ADS (Uninter) e aluno do curso técnico Fullstack da B7Web, com foco em prática e construção de projetos reais.
+Concluí recentemente a grade curricular de ADS pela UNINTER e possuo formação técnica Full-Stack pela B7Web. Atuo no desenvolvimento de soluções comerciais independentes, aplicando boas práticas de código e integrações modernas.
 
-Tenho experiência anterior como Analista Gráfico no mercado financeiro e Técnico em Telecom, o que desenvolveu minha visão analítica, responsabilidade e disciplina profissional.
-
-Atualmente focado em evoluir como Desenvolvedor Backend e Fullstack.
+Minha trajetória profissional inclui sólida bagagem como Técnico em Telecomunicações e Analista Gráfico no mercado financeiro, competências que me deram forte domínio sobre infraestrutura de redes, visão analítica e resolução de problemas críticos.
 
 ---
 
 ## 🛠 Stack Principal
 
-- HTML, CSS, JavaScript
-- TypeScript
-- React
-- Python
-- Node.js
-- Git & GitHub
-- SQL
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js 15, Tailwind CSS, Framer Motion.
+- **Backend & Automação:** Node.js, Python, Fastify, n8n, REST APIs, microsserviços.
+- **Banco de Dados & Ferramentas:** PostgreSQL, Prisma ORM, Supabase, MongoDB, Git & GitHub.
 
 ---
 
-## 📚 Em constante evolução
+## 📚 Foco de Estudo Atual
 
-Atualmente estudando:
-
-- Arquitetura Backend
-- Boas práticas de código
-- Tratamento de erros e organização de projetos
-- Estruturação de APIs
-- Banco de dados e modelagem
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adriano-rocha&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adriano-rocha&layout=compact&theme=radical)
+- Arquitetura de Software e Padrões de Projeto (Clean Code, SOLID)
+- Desempenho e Segurança em Bancos de Dados Relacionais
+- Otimização de APIs e Fluxos de Integração Contínua
 
 ---
 
 ## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/adriano-rocha-464044305/
-Email: adrianorocha.dev@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/adriano-rocha-464044305/
+- **E-mail:** adrianorocha.dev@gmail.com
