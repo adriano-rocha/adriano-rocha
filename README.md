@@ -10,7 +10,7 @@ Atuo como Desenvolvedor Full Stack Freelancer, desenvolvendo soluções comercia
 
 🚀 Sobre mim
 
-Minha principal área de atuação é Desenvolvimento Full Stack, com foco no ecossistema JavaScript/TypeScript, Python, especialmente React, Vue, Next.js, Django, Node.js e APIs REST.
+Minha principal área de atuação é Desenvolvimento Full Stack, com foco no ecossistema JavaScript/TypeScript especialmente React, Vue.js, Next.js, Node.js e APIs REST.
 
 Também trabalho com Python, n8n, Webhooks e integrações com APIs, utilizando automação e Inteligência Artificial para otimizar processos e criar soluções mais eficientes.
 
