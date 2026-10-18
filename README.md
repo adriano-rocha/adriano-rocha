@@ -24,7 +24,7 @@ Atualmente, busco oportunidades como Desenvolvedor Full Stack Júnior, Desenvolv
 
 💻 Desenvolvimento
 
-* Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS
+* Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Vue.js, Next.js, Tailwind CSS
 * Backend: Node.js, Express, Fastify, Python
 * APIs & Integrações: REST APIs, Webhooks, JWT, integrações de sistemas
 * Banco de Dados: PostgreSQL, Prisma ORM, Supabase, MongoDB
